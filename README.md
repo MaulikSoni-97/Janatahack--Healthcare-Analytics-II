@@ -6,7 +6,7 @@
 The task is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
 ## Approach:
-- I have used the binary and HashingEncoding for categorical feature processing while I used the XGBoost model for classification and got Accuracy 40.848 (Winner got 43.908) on Private leaderboard.
+- I have used the Binary and HashingEncoding for categorical feature processing while I used the XGBoost model for classification and got Accuracy 40.848 (Winner got 43.908) on Private leaderboard.
 
 
 
